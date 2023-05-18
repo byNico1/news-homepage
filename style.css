@@ -18,12 +18,13 @@
 }
 
 body {
+  background-color: var(--off-white);
   font-family: "Inter", sans-serif;
   font-size: 15px;
 }
 
 header {
-  padding: 2em 0;
+  padding: 4em 0 2em 0;
 }
 
 .hamburger {
